@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67de4d5d-3d29-451c-bc5a-74892a4cb892" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,6 +20,7 @@
   <component name="ProjectId" id="1QvujYEOwh9EGNqnwwkhkAdzzaa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -58,7 +60,7 @@
       <updated>1568663526791</updated>
       <workItem from="1568663529097" duration="557000" />
       <workItem from="1569257384510" duration="29000" />
-      <workItem from="1569257537981" duration="1773000" />
+      <workItem from="1569257537981" duration="1993000" />
     </task>
     <servers />
   </component>
